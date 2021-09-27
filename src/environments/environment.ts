@@ -4,7 +4,7 @@
 
 export const environment = {
   production: false,
-  baseUrl: `https://ionic-back-g17.herokuapp.com`
+  baseUrl: `http://ec2-18-221-74-226.us-east-2.compute.amazonaws.com/`
 };
 
 /*
